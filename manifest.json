@@ -1,21 +1,13 @@
 {
 	"info" : {
-		"name" : "lodewall_boxes",
+		"name" : "lodewall_deco",
 		"version" : 3
 	},
 	"default_locale" : "en",
 	"aliases" : {
-		"chest_iron" : "file(entities/containers/chest_iron/chest_iron.json)",
-		"crate_reinforced" : "file(entities/containers/crate_reinforced/crate_reinforced.json)",
-		"mixins:containers:chest": "file(mixins/containers/chest.json)",
-        "mixins:containers:chest:ghost": "file(mixins/containers/chest_ghost.json)",
-		"mixins:containers:crate": "file(mixins/containers/crate.json)",
-        "mixins:containers:crate:ghost": "file(mixins/containers/crate_ghost.json)"
-	},
-	"components" : {
-	    "chest": "file(components/chest/chest_component.lua)"
+		"balustrade_wood" : "file(entities/construction/balustrade_wood/balustrade_wood.json)"
 	},
 	"mixintos" : {
-		"/stonehearth/jobs/blacksmith/recipes/recipes.json" : "file(mixins/blacksmith_recipes.json)"
+		"/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(mixins/carpenter_recipes.json)"
 	}
 }

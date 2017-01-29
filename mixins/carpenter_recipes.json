@@ -1,9 +1,9 @@
 {
 	"craftable_recipes" : {
-		"storage" : {
+		"building_parts" : {
 			"recipes" : {
-				"iron_chest" : {
-					"recipe" : "file(/recipes/chest_iron_recipe.json)"
+				"balustrade_wood" : {
+					"recipe" : "file(/recipes/balustrade_wood_recipe.json)"
 				}
 			}
 		}

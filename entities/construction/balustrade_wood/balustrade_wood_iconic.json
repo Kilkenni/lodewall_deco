@@ -8,7 +8,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(chest_iron_iconic.qb)"
+               "file(balustrade_wood_iconic.qb)"
             ]
          }
       }
@@ -16,7 +16,7 @@
    "entity_data": {
       "stonehearth:catalog": {
          "is_item": true,
-         "category": "storage"
+         "category": "construction"
       }
    }
 }

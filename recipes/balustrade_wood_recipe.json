@@ -1,21 +1,21 @@
 {
 	"type" : "recipe",
 
-	"work_units" : 10,
-	"recipe_name" : "i18n(lodewall_boxes:recipes.chest_iron_recipe.recipe_name)",
-	"description" : "i18n(lodewall_boxes:recipes.chest_iron_recipe.description)",
-	"flavor" : "i18n(lodewall_boxes:recipes.chest_iron_recipe.flavor)",
-	"portrait" : "/lodewall_boxes/entities/containers/chest_iron/chest_iron.png",
-	"workshop" : "stonehearth:blacksmith:workbench",
-	"level_requirement" : 2,
+	"work_units" : 5,
+	"recipe_name" : "i18n(lodewall_deco:recipes.balustrade_wood_recipe.recipe_name)",
+	"description" : "i18n(lodewall_deco:recipes.balustrade_wood_recipe.description)",
+	"flavor" : "i18n(lodewall_deco:recipes.balustrade_wood_recipe.flavor)",
+	"portrait" : "/lodewall_deco/recipes/balustrade_wood.png",
+	"workshop" : "stonehearth:carpenter:workbench",
+	"level_requirement" : 1,
 	"ingredients" : [
 		{
-         "uri": "stonehearth:refined:iron_ingot",
-         "count": 2
+         "material": "wood resource",
+         "count": 1
 		}
 	],
 	"produces" : [{
-			"item" : "lodewall_boxes:chest_iron"
+			"item" : "lodewall_deco:balustrade_wood"
 		}
 	]
 }

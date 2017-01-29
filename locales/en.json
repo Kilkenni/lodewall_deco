@@ -1,20 +1,16 @@
 {
 	"recipes" : {
-		"chest_iron_recipe" : {
-			"recipe_name" : "Iron Chest",
-			"description" : "Iron plates, forged rods and rivets.",
-			"flavor" : "A solid choice to store your favourite rabbit plush."
+		"balustrade_wood_recipe" : {
+			"recipe_name" : "Wooden Balustrade",
+			"description" : "TODO",
+			"flavor" : "TODO"
 		}
 	},
 	"entities" : {
-		"containers" : {
-			"chest_iron" : {
-				"description" : "A sturdy ogre-proof storage",
-				"name" : "Iron Chest"
-			},
-			"crate_reinforced" : {
-				"description" : "A small wooden crate binded with metal stripes",
-				"name" : "Reinforced crate"
+		"construction" : {
+			"balustrade_wood" : {
+				"description" : "A beautifully carved fence",
+				"name" : "Wooden Balustrade"
 			}
 		}
 	}
