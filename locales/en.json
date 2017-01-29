@@ -2,14 +2,14 @@
 	"recipes" : {
 		"balustrade_wood_recipe" : {
 			"recipe_name" : "Wooden Balustrade",
-			"description" : "TODO",
-			"flavor" : "TODO"
+			"description" : "Solving 'balcony fall' problem for centuries.",
+			"flavor" : "No hearthlings were harmed during testing."
 		}
 	},
 	"entities" : {
 		"construction" : {
 			"balustrade_wood" : {
-				"description" : "A beautifully carved fence",
+				"description" : "A beautifully carved barrier",
 				"name" : "Wooden Balustrade"
 			}
 		}
