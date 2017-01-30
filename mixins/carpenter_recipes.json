@@ -12,6 +12,16 @@
 					"recipe" : "file(/recipes/balustrade_wood_corner_recipe.json)"
 				}
 			}
+		},
+		"furniture" : {
+			"recipes" : {
+				"bed_bunk_columns_recipe" : {
+					"recipe" : "file(/recipes/bed_bunk_columns_recipe.json)"
+				},
+				"bed_bunk_mean" : {
+					"recipe" : "file(/recipes/bed_bunk_mean_recipe.json)"
+				}
+			}
 		}
 	}
 }
