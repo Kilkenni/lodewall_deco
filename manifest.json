@@ -7,7 +7,9 @@
 	"aliases" : {
 		"balustrade_wood" : "file(entities/construction/balustrade_wood/balustrade_wood.json)",
 		"balustrade_wood_end" : "file(entities/construction/balustrade_wood_end/balustrade_wood_end.json)",
-		"balustrade_wood_corner" : "file(entities/construction/balustrade_wood_corner/balustrade_wood_corner.json)"
+		"balustrade_wood_corner" : "file(entities/construction/balustrade_wood_corner/balustrade_wood_corner.json)",
+		"bed_bunk_mean" : "file(entities/furniture/bed_bunk_mean/bed_bunk_mean.json)",
+		"bed_bunk_columns" : "file(entities/furniture/bed_bunk_columns/bed_bunk_columns.json)"
 	},
 	"mixintos" : {
 		"/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(mixins/carpenter_recipes.json)"

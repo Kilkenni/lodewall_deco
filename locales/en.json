@@ -14,6 +14,16 @@
 			"recipe_name" : "Wooden Balustrade Corner",
 			"description" : "No bending over!",
 			"flavor" : ""
+		},
+		"bed_bunk_columns_recipe" : {
+			"recipe_name" : "Bunk Bed Columns",
+			"description" : "A set of mathematically precise fibrous parallelepipeds.",
+			"flavor" : "Science!"
+		},
+		"bed_bunk_mean_recipe" : {
+			"recipe_name" : "Mean Bunk Bed",
+			"description" : "A stackable model popular in the barracks. Hardens the character and straightens the back.",
+			"flavor" : "'Thatch takes many forms.' - Ascendants' saying."
 		}
 	},
 	"entities" : {
@@ -29,6 +39,25 @@
 			"balustrade_wood_corner" : {
 				"description" : "Carved balustrade corner",
 				"name" : "Wooden Balustrade Corner"
+			},
+			"bed_bunk_columns" : {
+				"description" : "Simle wooden columns",
+				"name" : "Bunk Bed Columns"
+			},
+			"bed_bunk_mean" : {
+				"description" : "Rough but sturdy",
+				"name" : "Mean Bunk Bed"
+			}
+		},
+		"furniture" : {
+			},
+			"bed_bunk_columns" : {
+				"description" : "Simle wooden columns",
+				"name" : "Bunk Bed Columns"
+			},
+			"bed_bunk_mean" : {
+				"description" : "Rough but sturdy",
+				"name" : "Mean Bunk Bed"
 			}
 		}
 	}

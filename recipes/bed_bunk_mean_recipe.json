@@ -1,0 +1,21 @@
+{
+	"type" : "recipe",
+
+	"work_units" : 5,
+	"recipe_name" : "i18n(lodewall_deco:recipes.bed_bunk_mean.recipe_name)",
+	"description" : "i18n(lodewall_deco:recipes.bed_bunk_mean.description)",
+	"flavor" : "i18n(lodewall_deco:recipes.bed_bunk_mean.flavor)",
+	"portrait" : "/lodewall_deco/recipes/bed_bunk_mean.png",
+	"workshop" : "stonehearth:carpenter:workbench",
+	"level_requirement" : 1,
+	"ingredients" : [
+		{
+         "material": "wood resource",
+         "count": 1
+		}
+	],
+	"produces" : [{
+			"item" : "lodewall_deco:bed_bunk_mean"
+		}
+	]
+}
