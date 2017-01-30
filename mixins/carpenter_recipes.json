@@ -7,6 +7,9 @@
 				},
 				"balustrade_wood_end" : {
 					"recipe" : "file(/recipes/balustrade_wood_end_recipe.json)"
+				},
+				"balustrade_wood_corner" : {
+					"recipe" : "file(/recipes/balustrade_wood_corner_recipe.json)"
 				}
 			}
 		}

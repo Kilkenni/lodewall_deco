@@ -9,6 +9,11 @@
 			"recipe_name" : "Wooden Balustrade Endpost",
 			"description" : "Ending post for obsessive hearthlings.",
 			"flavor" : ""
+		},
+		"balustrade_wood_corner_recipe" : {
+			"recipe_name" : "Wooden Balustrade Corner",
+			"description" : "No bending over!",
+			"flavor" : ""
 		}
 	},
 	"entities" : {
@@ -20,6 +25,10 @@
 			"balustrade_wood_end" : {
 				"description" : "A beautiful end to a beautiful barrier",
 				"name" : "Wooden Balustrade Endpost"
+			},
+			"balustrade_wood_corner" : {
+				"description" : "Carved balustrade corner",
+				"name" : "Wooden Balustrade Corner"
 			}
 		}
 	}
