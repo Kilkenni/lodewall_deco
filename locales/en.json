@@ -1,26 +1,26 @@
 {
 	"recipes" : {
-		"balustrade_wood_recipe" : {
+		"balustrade_wood" : {
 			"recipe_name" : "Wooden Balustrade",
 			"description" : "Solving 'balcony fall' problem for centuries.",
 			"flavor" : "No hearthlings were harmed during testing."
 		},
-		"balustrade_wood_end_recipe" : {
+		"balustrade_wood_end" : {
 			"recipe_name" : "Wooden Balustrade Endpost",
 			"description" : "Ending post for obsessive hearthlings.",
 			"flavor" : ""
 		},
-		"balustrade_wood_corner_recipe" : {
+		"balustrade_wood_corner" : {
 			"recipe_name" : "Wooden Balustrade Corner",
 			"description" : "No bending over!",
 			"flavor" : ""
 		},
-		"bed_bunk_columns_recipe" : {
+		"bed_bunk_columns" : {
 			"recipe_name" : "Bunk Bed Columns",
 			"description" : "A set of mathematically precise fibrous parallelepipeds.",
 			"flavor" : "Science!"
 		},
-		"bed_bunk_mean_recipe" : {
+		"bed_bunk_mean" : {
 			"recipe_name" : "Mean Bunk Bed",
 			"description" : "A stackable model popular in the barracks. Hardens the character and straightens the back.",
 			"flavor" : "'Thatch takes many forms.' - Ascendants' saying."
