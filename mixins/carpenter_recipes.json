@@ -4,6 +4,9 @@
 			"recipes" : {
 				"balustrade_wood" : {
 					"recipe" : "file(/recipes/balustrade_wood_recipe.json)"
+				},
+				"balustrade_wood_end" : {
+					"recipe" : "file(/recipes/balustrade_wood_end_recipe.json)"
 				}
 			}
 		}

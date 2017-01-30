@@ -4,6 +4,11 @@
 			"recipe_name" : "Wooden Balustrade",
 			"description" : "Solving 'balcony fall' problem for centuries.",
 			"flavor" : "No hearthlings were harmed during testing."
+		},
+		"balustrade_wood_end_recipe" : {
+			"recipe_name" : "Wooden Balustrade Endpost",
+			"description" : "Ending post for obsessive hearthlings.",
+			"flavor" : ""
 		}
 	},
 	"entities" : {
@@ -11,6 +16,10 @@
 			"balustrade_wood" : {
 				"description" : "A beautifully carved barrier",
 				"name" : "Wooden Balustrade"
+			},
+			"balustrade_wood_end" : {
+				"description" : "A beautiful end to a beautiful barrier",
+				"name" : "Wooden Balustrade Endpost"
 			}
 		}
 	}

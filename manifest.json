@@ -5,7 +5,9 @@
 	},
 	"default_locale" : "en",
 	"aliases" : {
-		"balustrade_wood" : "file(entities/construction/balustrade_wood/balustrade_wood.json)"
+		"balustrade_wood" : "file(entities/construction/balustrade_wood/balustrade_wood.json)",
+		"balustrade_wood_end" : "file(entities/construction/balustrade_wood_end/balustrade_wood_end.json)",
+		"balustrade_wood_corner" : "file(entities/construction/balustrade_wood_corner/balustrade_wood_corner.json)"
 	},
 	"mixintos" : {
 		"/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(mixins/carpenter_recipes.json)"

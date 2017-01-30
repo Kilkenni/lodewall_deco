@@ -1,0 +1,28 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(balustrade_wood_end.qb)"
+            ]
+         }
+      },
+      "render_info": {
+         "scale": 0.1
+      },
+      "mob": {
+         "model_origin": { "x": -1, "y": 0, "z": 0.4 },
+         "region_origin": { "x": -1, "y": 0, "z": 0.4 }
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(lodewall_deco:entities.construction.balustrade_wood_end.name)",
+         "description": "i18n(lodewall_deco:entities.construction.balustrade_wood_end.description)",
+         "icon": "file(balustrade_wood_end.png)",
+         "category": "construction",
+         "material_tags": "wood defense crafted fence stockpile_defense"
+      }
+   }
+}

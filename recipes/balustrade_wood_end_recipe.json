@@ -1,0 +1,21 @@
+{
+	"type" : "recipe",
+
+	"work_units" : 5,
+	"recipe_name" : "i18n(lodewall_deco:recipes.balustrade_wood_end_recipe.recipe_name)",
+	"description" : "i18n(lodewall_deco:recipes.balustrade_wood_end_recipe.description)",
+	"flavor" : "i18n(lodewall_deco:recipes.balustrade_wood_end_recipe.flavor)",
+	"portrait" : "/lodewall_deco/recipes/balustrade_wood_end.png",
+	"workshop" : "stonehearth:carpenter:workbench",
+	"level_requirement" : 1,
+	"ingredients" : [
+		{
+         "material": "wood resource",
+         "count": 1
+		}
+	],
+	"produces" : [{
+			"item" : "lodewall_deco:balustrade_wood_end"
+		}
+	]
+}
