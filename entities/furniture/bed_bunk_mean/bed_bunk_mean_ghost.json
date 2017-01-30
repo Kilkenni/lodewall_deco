@@ -18,7 +18,7 @@
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "display_name": "i18n(lodewall_deco:entities.furniture.bed_bunk_mean.display_name)",
+         "display_name": "i18n(lodewall_deco:entities.furniture.bed_bunk_mean.name)",
          "description": "i18n(lodewall_deco:entities.furniture.bed_bunk_mean.description)",
          "icon": "file(bed_bunk_mean.png)",
          "category": "furniture",
